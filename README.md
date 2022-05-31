@@ -6,8 +6,7 @@
 ## top 명령어란
 : 시스템의 ***프로세스/메모리 사용 상태를 실시간으로 출력***해주는 명령어이다. 화면에 출력되는 기본값은 현재시간, 시스템 업데이트 시간, 시스템에 로그인한 사용자 수, 지난 1분, 지난 5분, 지난 15분간의 시스템 평균 부하를 출력한다. 목록 아래에는 프로세스 정보, CPU 상태, 메모리와 스왑 상태를 출력한다. 
 
-사용방법: 
-<img width="703" alt="스크린샷 2022-05-31 오후 1 32 14" src="https://user-images.githubusercontent.com/99576806/171093361-3df88ae5-42d9-4c5e-9e95-2912084965ba.png">
+사용방법: <img width="1200" alt="스크린샷 2022-05-31 오후 1 32 14" src="https://user-images.githubusercontent.com/99576806/171093361-3df88ae5-42d9-4c5e-9e95-2912084965ba.png">
 
 ### top 단축키 명령어
 |명령어|설명|
@@ -52,8 +51,7 @@
 ## ps 명령어란
 : Process Status의 약자로 ***프로세스의 현재 상태를 출력***한다.
 
-사용방법: 
-<img width="705" alt="스크린샷 2022-05-31 오후 1 34 09" src="https://user-images.githubusercontent.com/99576806/171093584-ab2bedfb-191a-4902-936d-981ca7917659.png">
+사용방법: <img width="1200" alt="스크린샷 2022-05-31 오후 1 34 09" src="https://user-images.githubusercontent.com/99576806/171093584-ab2bedfb-191a-4902-936d-981ca7917659.png">
 
 ### 전체 프로세스와 관련된 옵션
 |명령어|설명|
@@ -148,8 +146,7 @@
 ## jobs 명령어란
 : ***작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경되었지만 보고되지 않은 상태 등을 표시***한다.
 
-사용방법: 
-<img width="1243" alt="스크린샷 2022-05-31 오후 1 36 26" src="https://user-images.githubusercontent.com/99576806/171093812-9cc0668c-0483-4fc4-8f20-ebb850008b3d.png">
+사용방법: <img width="1200" alt="스크린샷 2022-05-31 오후 1 36 26" src="https://user-images.githubusercontent.com/99576806/171093812-9cc0668c-0483-4fc4-8f20-ebb850008b3d.png">
 
 ### 명령어 옵션
 |명령어|설명|
@@ -176,8 +173,7 @@
 ## kill 명령어란
 : 시스템에 얘기치 않은 문제가 생긴 ***프로세스에 종료 시그널을 보내 종료***시킬 수 있다.
 
-사용방법: 
-<img width="1239" alt="스크린샷 2022-05-31 오후 1 23 31" src="https://user-images.githubusercontent.com/99576806/171092512-2c429f6d-ce55-4379-879c-ec88ee91332d.png">
+사용방법: <img width="1200" alt="스크린샷 2022-05-31 오후 1 23 31" src="https://user-images.githubusercontent.com/99576806/171092512-2c429f6d-ce55-4379-879c-ec88ee91332d.png">
 
 ### 명령어 옵션
 |명령어|설명|
