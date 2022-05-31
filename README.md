@@ -200,5 +200,6 @@
 |(반복횟수)+@+(macro key)|저장된 기록을 '반복횟수'만큼 실행|
 
 ### Macro 예시
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
+다음은 지난 과제였던 vimgolf 문제 4번을 예시로 들었다.
+<img width="80%" src="https://user-images.githubusercontent.com/99576806/171109883-a4111639-776c-4501-bb50-77572745ae9d.gif"/>
 
