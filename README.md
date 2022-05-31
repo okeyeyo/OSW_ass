@@ -200,4 +200,4 @@
 |(반복횟수)+@+(macro key)|저장된 기록을 '반복횟수'만큼 실행|
 
 ### Macro 예시
-<img src="https://user-images.githubusercontent.com/99576806/171106377-0abc1e98-4de9-48cf-a18b-7863d1085c0b.mov">
+<img src="![Hnet-image](https://user-images.githubusercontent.com/99576806/171107509-98314775-03f0-42e2-a209-cd52e9efb6ea.gif)">
